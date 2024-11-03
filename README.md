@@ -12,7 +12,7 @@ Closed circuit television systems (CCTV) are becoming more and more popular and 
 
 When an individual carries a weapon (firearm or a knife) out in the open, it is a strong indicator of a potentially dangerous situation. While some countries allow for open carry firearms, in such an event, it is still advisable to grab the CCTV operators’ attention in order to assess the situation at hand. During recent years, an increase in the number of incidents with the use of dangerous Automated methods for video surveillance have started to emerge in recent years, mainly for the purpose of intelligent transportation systems (ITS).
 
-we have focused on the specific task of automated detection and recognition of dangerous situations applicable in general for any CCTV system. The problem we are tackling is the automated detection of dangerous weapons—knives and firearms, the most frequently used and deadly weapons. The appearance of such objects held in a hand is an example of a sign of danger to which the human operator must be alerted.
+We have focused on the specific task of automated detection and recognition of dangerous situations applicable in general for any CCTV system. The problem we are tackling is the automated detection of dangerous weapons—knives and firearms, the most frequently used and deadly weapons. The appearance of such objects held in a hand is an example of a sign of danger to which the human operator must be alerted.
 
 
 A solution to the problem of overloading the human operator is to apply automated image understanding algorithms, which, rather than substituting the human operator, alert them if a potentially dangerous situation is at hand.
