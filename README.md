@@ -7,8 +7,11 @@ Operations of the proposed project have three processing modules:
 -	Monitoring and alarm operations will be carried out by the third processing module.
 
 Deep learning is an AI function that mimics the workings of the human brain in processing data for use in detecting objects, recognizing speech, translating languages, and making decisions. The process of learning begins with observations or data, such as examples, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide. The primary aim is to allow the computers to learn automatically without human intervention or assistance and adjust actions accordingly.
+
 Closed circuit television systems (CCTV) are becoming more and more popular and are being deployed in many offices, housing estates and in most public spaces. There are a million of CCTV cameras that are currently in operation in India. This makes for an enormous load for the CCTV operators, as the number of cameras views a single operator can monitor is limited by human factors. The task of the CCTV operator is to monitor and control, detect, observe, recognize and identify individuals and situations that are potentially harmful to other people and property but it becomes harder to monitor when there are a lot of CCTV cameras.
+
 When an individual carries a weapon (firearm or a knife) out in the open, it is a strong indicator of a potentially dangerous situation. While some countries allow for open carry firearms, in such an event, it is still advisable to grab the CCTV operators’ attention in order to assess the situation at hand. During recent years, an increase in the number of incidents with the use of dangerous Automated methods for video surveillance have started to emerge in recent years, mainly for the purpose of intelligent transportation systems (ITS).
+
 we have focused on the specific task of automated detection and recognition of dangerous situations applicable in general for any CCTV system. The problem we are tackling is the automated detection of dangerous weapons—knives and firearms, the most frequently used and deadly weapons. The appearance of such objects held in a hand is an example of a sign of danger to which the human operator must be alerted.
 
 
